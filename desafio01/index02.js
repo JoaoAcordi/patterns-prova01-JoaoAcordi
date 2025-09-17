@@ -68,7 +68,6 @@ const lancheCompleto = new LancheBuilder()
   .addQueijo()
   .addSalada()
   .addMolho()
-  .addMolho()
   .build();
 
 lancheSimples.show();

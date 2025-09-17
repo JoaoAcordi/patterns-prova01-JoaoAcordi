@@ -63,6 +63,3 @@ if (theme === "light") {
 
 const button = factory.createButton();
 const windowUI = factory.createWindow();
-
-console.log(button.render());
-console.log(windowUI.render());
